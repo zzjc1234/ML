@@ -4,17 +4,6 @@ This repo is used for machine learning and deep learning.
 
 ---
 
-## Plan
-
-1. Finish pytorch official
-2. Learn CS188 and CS109
-3. Learn CS229
-
-- Finish two Kaggle contests
-- Finish CS109
-- Finish 188's projects
-- Learn CS229 a little bit slower than 188
-
 ## Resources
 
 1. [Pytorch official](https://pytorch.org/tutorials/beginner/basics/intro.html)
